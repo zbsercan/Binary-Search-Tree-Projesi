@@ -1,2 +1,2 @@
 # Binary-Search-Tree-Projesi
-![alt text](/tree/tree.jpg)
+[![image](https://r.resimlink.com/VmFDPduZHoK.jpg)](https://resimlink.com/VmFDPduZHoK)
