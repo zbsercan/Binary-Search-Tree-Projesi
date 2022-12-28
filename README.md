@@ -1,2 +1,2 @@
 # Binary-Search-Tree-Projesi
-![alt text](tree/tree.png)
+![alt text](tree/tree.jpg)
